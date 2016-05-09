@@ -1,0 +1,21 @@
+*UC-0 :  Registrazione	  (Utente guest)
+	
+	UC-0.0 :  Inserimento username   ---> controllo di unicità
+	UC-0.1 :  Inserimento password	
+	UC-0.0 :  Inserimento paese
+	UC-0.0 :  Inserimento tipo account (base -> solo stelline, business -> anche commenti, proprietario -> può inserire luoghi)	
+
+*UC-1 : Visualizzazione recensioni di luoghi casuali  (Utente guest)
+
+*UC-2 : Ricerca luogo con recensione  (Utente guest)
+	UC-2.0 : Ricerca per luogo
+	UC-2.1 : Ricerca per voto
+
+*UC-3 : Visualizzazione luoghi nel tuo paese (Utente loggato)
+
+
+*UC-4 : Voto in stelle  (Utente loggato base)
+
+*UC-5 : Voto in commento (Utente loggato business)
+
+*UC-6 : Inserimento nuovo luogo (Utente proprietario)

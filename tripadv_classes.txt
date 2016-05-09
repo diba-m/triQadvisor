@@ -1,0 +1,15 @@
+1) GERARCHIA DEGLI UTENTI
+	   Utente astratto polimorfo
+		   |
+		   |
+	        Utente base
+		   |
+	           |
+	       Utente Business
+		   |
+		   |
+	       Utente proprietario
+2) DESIGN PATTERN
+	   - STRATEGY per il login
+	   - SINGLETON per il database copiato in memoria
+	   - BUILDER oppure DECORATOR per comporre la GUI in base alla tipologia di utenza

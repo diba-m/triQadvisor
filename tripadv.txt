@@ -1,0 +1,31 @@
+Tripadvisor è un noto sito di viaggi diffuso in tutto il mondo.
+
+***Per accedervi,è necessario registrarsi fornendo una username e una password. 
+   Come in molti altri sistemi, il username deve essere univoco: il sistema, quindi, non permette
+   ad un nuovo utente di registrarsi utilizzando una username già scelta da un
+   altro utente. 
+
+***All’interno del sito sono presenti le recensioni di numerose
+   attrazioni turistiche, ristoranti, hotel etc... Le recensioni sono visibili
+   pubblicamente e possono essere lette anche dagli utenti non registrati.
+
+
+***La scrittura delle recensioni è disponibile unicamente per gli utenti registrati.
+
+
+***Ogni recensione contiene un giudizio riassuntivo che l’utente inserisce
+   utilizzando le “stelle” (da una a cinque) e da una descrizione. 
+
+***L’eventuale proprietario dell’attrazione turistica rispondere brevemente ad
+   una recensione, inserendo a sua volta un commento. 
+
+***Il profilo di un utente è
+   caratterizzato da nome, cognome, paese. 
+
+***I distintivi sono legati al numero di recensioni
+   scritte: ad esempio, dopo 4 recensioni l’utente diviene un “Recensore esperto”
+   e il sistema lo notifica con un messaggio opportuno. 
+
+
+
+

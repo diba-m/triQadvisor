@@ -1,0 +1,23 @@
+<users>
+	<user>
+		<username></username>
+		<password></password>
+		<country></country>
+		<account_type></account_type>
+	</user>
+	
+	<user>
+                <username></username>
+                <password></password>
+                <country></country>
+                <account_type></account_type>
+        </user>
+
+	<user>
+                <username></username>
+                <password></password>
+                <country></country>
+                <account_type></account_type>
+        </user>
+
+</users>
